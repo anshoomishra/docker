@@ -2,10 +2,10 @@
 # Docker Tutorial Syllabus
 
 ## 1. Introduction to Docker
-- What is Docker?
-- Benefits of Docker
-- Docker vs. Virtual Machines
-- Installing Docker on different platforms (Linux, Windows, macOS)
+- [What is Docker?](./docker-introduction/what-is-docker.md)
+- [Benefits of Docker](./docker-introduction/docker-benefits.md)
+- [Docker vs. Virtual Machines](./docker-introduction/docker-vs-vm.md)
+- [Installing Docker on Different Platforms (Linix, Mac, Windows)](./docker-introduction/docker-installation.md)
 
 ## 2. Understanding Docker Architecture
 - Docker Engine
