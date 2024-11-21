@@ -15,15 +15,15 @@ Docker provides installation support for **Linux**, **Windows**, and **macOS**. 
 ### Steps:
 1. **Update the package index:**
 ```bash
-    sudo apt-get update
+sudo apt-get update
 ```
 2. **Install required packages:**
 ```bash
-   sudo apt-get install ca-certificates curl gnupg lsb-release
+sudo apt-get install ca-certificates curl gnupg lsb-release
 ```   
 3. **Add Docker's official GPG key:**   
 ```bash
-   curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
 
 ```
 4. **Set up the stable repository:**   
