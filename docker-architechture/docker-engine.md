@@ -4,7 +4,7 @@
 
 Docker Engine is the core component of Docker, responsible for building, running, and managing containers. It acts as the foundation for the Docker ecosystem, enabling the creation and execution of containerized applications.
 
----
+--
 
 ### Components of Docker Engine
 
